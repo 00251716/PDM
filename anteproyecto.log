@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.13)  18 MAR 2018 21:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.13)  19 MAR 2018 10:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -613,62 +613,82 @@ LaTeX Font Warning: Font shape `OT1/cmr/bx/it' in size <15> not available
 (Font)              size <14.4> substituted on input line 81.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--85
+Underfull \hbox (badness 10000) in paragraph at lines 74--86
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--85
+Underfull \hbox (badness 10000) in paragraph at lines 74--86
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--85
+Underfull \hbox (badness 10000) in paragraph at lines 74--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--86
 
  []
 
 [3 <./img/5.png>]
-<img/2.png, id=43, 373.395pt x 664.4825pt>
+<img/2.png, id=44, 373.395pt x 664.4825pt>
 File: img/2.png Graphic file (type png)
 <use img/2.png>
-Package pdftex.def Info: img/2.png  used on input line 89.
-(pdftex.def)             Requested size: 186.69704pt x 332.24043pt.
- [4]
-Underfull \hbox (badness 10000) in paragraph at lines 94--98
-
- []
-
-<img/3.png, id=53, 373.395pt x 664.4825pt>
+Package pdftex.def Info: img/2.png  used on input line 92.
+(pdftex.def)             Requested size: 175.49881pt x 312.30681pt.
+<img/3.png, id=45, 373.395pt x 664.4825pt>
 File: img/3.png Graphic file (type png)
 <use img/3.png>
-Package pdftex.def Info: img/3.png  used on input line 102.
-(pdftex.def)             Requested size: 186.69704pt x 332.24043pt.
-[5 <./img/2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 107--108
+Package pdftex.def Info: img/3.png  used on input line 98.
+(pdftex.def)             Requested size: 175.49881pt x 312.30681pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--111
 
  []
 
-<img/6.png, id=60, 373.395pt x 664.4825pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--111
+
+ []
+
+[4] [5 <./img/2.png> <./img/3.png>]
+<img/8.png, id=63, 373.395pt x 664.4825pt>
+File: img/8.png Graphic file (type png)
+<use img/8.png>
+Package pdftex.def Info: img/8.png  used on input line 117.
+(pdftex.def)             Requested size: 175.49881pt x 312.30681pt.
+<img/6.png, id=64, 373.395pt x 664.4825pt>
 File: img/6.png Graphic file (type png)
 <use img/6.png>
-Package pdftex.def Info: img/6.png  used on input line 112.
-(pdftex.def)             Requested size: 186.69704pt x 332.24043pt.
-[6 <./img/3.png>]
+Package pdftex.def Info: img/6.png  used on input line 123.
+(pdftex.def)             Requested size: 175.49881pt x 312.30681pt.
+<img/7.png, id=65, 373.395pt x 664.4825pt>
+File: img/7.png Graphic file (type png)
+<use img/7.png>
+Package pdftex.def Info: img/7.png  used on input line 132.
+(pdftex.def)             Requested size: 175.49881pt x 312.30681pt.
 <img/4.png, id=66, 373.395pt x 664.4825pt>
 File: img/4.png Graphic file (type png)
 <use img/4.png>
-Package pdftex.def Info: img/4.png  used on input line 119.
-(pdftex.def)             Requested size: 186.69704pt x 332.24043pt.
- [7 <./img/6.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 124.
- [8 <./img/4.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 124.
+Package pdftex.def Info: img/4.png  used on input line 138.
+(pdftex.def)             Requested size: 175.49881pt x 312.30681pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 145.
+ [6] [7 <./img/8.png> <./img/6.png>]
+[8 <./img/7.png> <./img/4.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 145.
  (./anteproyecto.aux
 LaTeX Info: Redefining \. on input line 20.
 LaTeX Info: Redefining \% on input line 20.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 124.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 124.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 145.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 145.
 Package rerunfilecheck Info: File `anteproyecto.out' has not changed.
 (rerunfilecheck)             Checksum: 7A80349D3FEE5F5DB8406B257F1A08D0;186.
 
@@ -676,23 +696,23 @@ Package rerunfilecheck Info: File `anteproyecto.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.6pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 124.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 145.
  ) 
 Here is how much of TeX's memory you used:
- 6231 strings out of 492982
- 88294 string characters out of 6138579
- 183451 words of memory out of 5000000
- 9733 multiletter control sequences out of 15000+600000
+ 6245 strings out of 492982
+ 88477 string characters out of 6138579
+ 184596 words of memory out of 5000000
+ 9743 multiletter control sequences out of 15000+600000
  7027 words of font info for 25 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,6n,30p,729b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,7n,30p,729b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on anteproyecto.pdf (8 pages, 421295 bytes).
+Output written on anteproyecto.pdf (8 pages, 511235 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 68 compressed objects within 1 object stream
- 18 named destinations out of 1000 (max. 500000)
- 60 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 105 PDF objects out of 1000 (max. 8388607)
+ 73 compressed objects within 1 object stream
+ 20 named destinations out of 1000 (max. 500000)
+ 70 words of extra memory for PDF output out of 10000 (max. 10000000)
 
